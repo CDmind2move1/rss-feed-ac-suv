@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>mind2move Fahrzeugangebote</title>
+  <link>https://mind2move.de</link>
+  <description>Unsere aktuellen Fahrzeugangebote – jetzt reduziert oder neu verfügbar!</description>
+
+  <item>
+    <title>Aktuelle Fahrzeugangebote - SUV</title>
+    <link>https://docs.google.com/spreadsheets/d/1D-2HJ3rjXBQolKpDs7kw6KkZPA3JEa3m/edit?usp=sharing&amp;ouid=103654291861894630124&amp;rtpof=true&amp;sd=true</link>
+    <description><![CDATA[
+      <table width="100%" cellpadding="0" cellspacing="0">
+        <tr>
+
+          <!-- Fahrzeug 1 -->
+          <td width="33%" valign="top" style="padding: 0 10px;">
+            <div style="color: red; font-weight: bold;">Jetzt reduziert!</div>
+            <div style="height: 160px; display: flex; align-items: center; justify-content: center;">
+              <img src="https://raw.githubusercontent.com/cdmind2move1/rss-feed-ac-suv/main/kia_sportage.jpg" style="max-height: 100%; max-width: 100%;">
+            </div>
+            <div style="height: 120px;">
+              <strong>Kia Sportage 1.6 T-GDI Plugin Hybrid (EURO 6d)</strong><br>
+              <strong>EZ:</strong> 16.11.2022<br>
+              <strong>KM:</strong> 42.124<br>
+              <strong>Kraftstoff:</strong> Plugin Hybrid (Benzin)<br>
+              <strong>Leistung:</strong> 132 kW (180 PS)
+            </div>
+            <div style="margin-top: 10px;">
+              <strong>Bisher:</strong> <span style="text-decoration:line-through;">24.200 € (netto)</span><br>
+              <strong><span style="color:red;">Jetzt: 22.200 € (netto)</span></strong><br><br>
+              <a href="https://inspection.autodataexperts.de/inserat/21588?signature=da6b172d2ac6b1e5b78928c97847875d220743010dfd3a945a272845b976c35c">Zum Fahrzeug</a>
+            </div>
+          </td>
+
+          <!-- Fahrzeug 2 -->
+          <td width="33%" valign="top" style="padding: 0 10px;">
+            <div style="color: blue; font-weight: bold;">NEU auf Lager!</div>
+            <div style="height: 160px; display: flex; align-items: center; justify-content: center;">
+              <img src="https://raw.githubusercontent.com/cdmind2move1/rss-feed-ac-suv/main/byd_atto.jpg" style="max-height: 100%; max-width: 100%;">
+            </div>
+            <div style="height: 120px;">
+              <strong>BYD ATTO 3 Comfort 60,48kWh</strong><br>
+              <strong>EZ:</strong> 04.08.2023<br>
+              <strong>KM:</strong> 20.549<br>
+              <strong>Antrieb:</strong> Elektro<br>
+              <strong>Leistung:</strong> 150 kW (205 PS)
+            </div>
+            <div style="margin-top: 10px;">
+              <strong>Preis:</strong> <strong>19.500 € (netto)</strong><br><br>
+              <a href="https://inspection.autodataexperts.de/inserat/21531?signature=048aa3cf64000b4d903e5fe62ae2f4ff91546855f9dc6db05e9beaba2845782f&amp;lang=de">Zum Fahrzeug</a>
+            </div>
+          </td>
+
+          <!-- Fahrzeug 3 -->
+          <td width="33%" valign="top" style="padding: 0 10px;">
+            <div style="color: red; font-weight: bold;">Jetzt reduziert!</div>
+            <div style="height: 160px; display: flex; align-items: center; justify-content: center;">
+              <img src="https://raw.githubusercontent.com/cdmind2move1/rss-feed-ac-suv/main/mercedes_glc.jpg" style="max-height: 100%; max-width: 100%;">
+            </div>
+            <div style="height: 120px;">
+              <strong>MERCEDES-BENZ GLC 300 de AMG Line 4Matic (EURO 6d)</strong><br>
+              <strong>EZ:</strong> 01.06.2022<br>
+              <strong>KM:</strong> 115.547<br>
+              <strong>Kraftstoff:</strong> Plugin Hybrid (Diesel)<br>
+              <strong>Leistung:</strong> 143 kW (195 PS)
+            </div>
+            <div style="margin-top: 10px;">
+              <strong>Bisher:</strong> <span style="text-decoration:line-through;">29.400 € (netto)</span><br>
+              <strong><span style="color:red;">Jetzt: 27.900 € (netto)</span></strong><br><br>
+              <a href="https://inspection.autodataexperts.de/inserat/21097?signature=f1e284d9fe63343582b5d6cba0d7240c8d8eeaeee2795f10bea14cf7d4ad60d4&amp;lang=de">Zum Fahrzeug</a>
+            </div>
+          </td>
+
+        </tr>
+      </table>
+    ]]></description>
+    <pubDate>Tue, 09 Jul 2025 12:00:00 +0000</pubDate>
+  </item>
+
+</channel>
+</rss>
