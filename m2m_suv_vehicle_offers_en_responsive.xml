@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>mind2move Vehicle Offers</title>
+  <link>https://mind2move.de</link>
+  <description>Our current vehicle offers – now discounted or newly available!</description>
+
+  <item>
+    <title>Current Vehicle Offers - SUV</title>
+    <link>https://docs.google.com/spreadsheets/d/1D-2HJ3rjXBQolKpDs7kw6KkZPA3JEa3m/edit?usp=sharing&amp;ouid=103654291861894630124&amp;rtpof=true&amp;sd=true</link>
+    <description><![CDATA[
+<style>@media only screen and (max-width: 600px) {
+  .rss-column {
+    display: block !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    padding-bottom: 20px !important;
+  }
+}</style>
+<table cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<!-- Fahrzeug 1 -->
+<td class="rss-column" style="padding: 0 10px;" valign="top" width="33%">
+<div style="color: red; font-weight: bold;">Now discounted!</div>
+<div style="height: 160px; display: flex; align-items: center; justify-content: center;">
+<img src="https://raw.githubusercontent.com/cdmind2move1/rss-feed-ac-suv/main/kia_sportage.jpg" style="max-height: 100%; max-width: 100%;"/>
+</div>
+<div style="min-height: 160px;">
+<strong>Kia Sportage 1.6 T-GDI Plugin Hybrid (EURO 6d)</strong><br/>
+<strong>First registration:</strong> 16.11.2022<br/>
+<strong>KM:</strong> 42.124<br/>
+<strong>Fuel type:</strong> Plugin Hybrid (Benzin)<br/>
+<strong>Power:</strong> 132 kW (180 PS)
+            </div>
+<div style="margin-top: 10px;">
+<strong>Previous price:</strong> <span style="text-decoration:line-through;">24.200 € (netto)</span><br/>
+<strong><span style="color:red;">Now: 22.200 € (netto)</span></strong><br/><br/>
+<a href="https://inspection.autodataexperts.de/inserat/21588?signature=da6b172d2ac6b1e5b78928c97847875d220743010dfd3a945a272845b976c35c">View Vehicle</a>
+</div>
+</td>
+<!-- Fahrzeug 2 -->
+<td class="rss-column" style="padding: 0 10px;" valign="top" width="33%">
+<div style="color: blue; font-weight: bold;">NEW in stock!</div>
+<div style="height: 160px; display: flex; align-items: center; justify-content: center;">
+<img src="https://raw.githubusercontent.com/cdmind2move1/rss-feed-ac-suv/main/byd_atto.jpg" style="max-height: 100%; max-width: 100%;"/>
+</div>
+<div style="min-height: 160px;">
+<strong>BYD ATTO 3 Comfort 60,48kWh</strong><br/>
+<strong>First registration:</strong> 04.08.2023<br/>
+<strong>KM:</strong> 20.549<br/>
+<strong>Drive type:</strong> Elektro<br/>
+<strong>Power:</strong> 150 kW (205 PS)
+            </div>
+<div style="margin-top: 10px;">
+<strong>Price:</strong> <strong>19.500 € (netto)</strong><br/><br/>
+<a href="https://inspection.autodataexperts.de/inserat/21531?signature=048aa3cf64000b4d903e5fe62ae2f4ff91546855f9dc6db05e9beaba2845782f&amp;lang=de">View Vehicle</a>
+</div>
+</td>
+<!-- Fahrzeug 3 -->
+<td class="rss-column" style="padding: 0 10px;" valign="top" width="33%">
+<div style="color: red; font-weight: bold;">Now discounted!</div>
+<div style="height: 160px; display: flex; align-items: center; justify-content: center;">
+<img src="https://raw.githubusercontent.com/cdmind2move1/rss-feed-ac-suv/main/mercedes_glc.jpg" style="max-height: 100%; max-width: 100%;"/>
+</div>
+<div style="min-height: 160px;">
+<strong>MERCEDES-BENZ GLC 300 de AMG Line 4Matic (EURO 6d)</strong><br/>
+<strong>First registration:</strong> 01.06.2022<br/>
+<strong>KM:</strong> 115.547<br/>
+<strong>Fuel type:</strong> Plugin Hybrid (Diesel)<br/>
+<strong>Power:</strong> 143 kW (195 PS)
+            </div>
+<div style="margin-top: 10px;">
+<strong>Previous price:</strong> <span style="text-decoration:line-through;">29.400 € (netto)</span><br/>
+<strong><span style="color:red;">Now: 27.900 € (netto)</span></strong><br/><br/>
+<a href="https://inspection.autodataexperts.de/inserat/21097?signature=f1e284d9fe63343582b5d6cba0d7240c8d8eeaeee2795f10bea14cf7d4ad60d4&amp;lang=de">View Vehicle</a>
+</div>
+</td>
+</tr>
+</table>
+
+]]></description>
+    <pubDate>Tue, 09 Jul 2025 12:00:00 +0000</pubDate>
+  </item>
+
+</channel>
+</rss>
